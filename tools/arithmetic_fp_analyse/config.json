@@ -1,0 +1,10 @@
+{
+  "vulnerabilities_list": [
+    {
+      "name" : "IU",
+      "contracts_dir" : "contracts/IU_random_500/",
+      "report_json_path" : "contracts/IU_random_500/IU_random_500.json",
+      "done": "false"
+    }
+  ]
+}
